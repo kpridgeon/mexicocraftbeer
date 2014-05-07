@@ -1,5 +1,7 @@
 <?php
 
-echo 'This is about mexican beer'
+echo 'This is about mexican beer';
+
+echo 'So we need to work on php syntax\n';
 
 ?>
